@@ -167,7 +167,7 @@ export default function Inscribe() {
             <img
               alt="generating keys"
               src="/images/generating-keys.png"
-              className="p-6 my-8 border"
+              className="p-6 my-8 border dark:border-none"
             />
           </li>
           <li>
@@ -181,7 +181,7 @@ export default function Inscribe() {
             <img
               alt="connect wallet"
               src="/images/connect-wallet.png"
-              className="p-6 my-8 border"
+              className="p-6 my-8 border dark:border-none"
             />
           </li>
         </ul>
@@ -219,7 +219,7 @@ export default function Inscribe() {
         <img
           alt="collection manifest"
           src="/images/collection-manifest.png"
-          className="p-6 my-8 border"
+          className="p-6 my-8 border dark:border-none"
         />
         <p className="mt-8">
           Now you can press <strong>Inscribe</strong>. It will open OrdinalSafe,
@@ -227,7 +227,7 @@ export default function Inscribe() {
           manifest.{" "}
         </p>
         <img
-          className="p-6 pb-0 mx-auto my-8 border w-96"
+          className="p-6 pb-0 mx-auto my-8 border dark:border-none w-96"
           alt="ordinalsafe collection inscription"
           src="/images/ordinal-safe-collection-inscription.png"
         />
@@ -239,7 +239,7 @@ export default function Inscribe() {
         <img
           alt="collection transaction hash"
           src="/images/collection-tx-hash.png"
-          className="p-6 mx-auto my-8 border"
+          className="p-6 mx-auto my-8 border dark:border-none"
         />
         <p>
           By clicking on it, you can see the status of your transaction. In our
@@ -251,12 +251,12 @@ export default function Inscribe() {
           <img
             alt="transaction pending"
             src="/images/tx-pending.png"
-            className="mx-auto border w-96"
+            className="mx-auto border dark:border-none w-96"
           />
           <img
             alt="transaction confirmed"
             src="/images/tx-confirmed.png"
-            className="mx-auto border w-80"
+            className="mx-auto border dark:border-none w-80"
           />
         </div>
         <p>
@@ -271,7 +271,7 @@ export default function Inscribe() {
         <img
           alt="og"
           src="/images/og.png"
-          className="p-6 mx-auto my-8 border w-96"
+          className="p-6 mx-auto my-8 border dark:border-none w-96"
         />
         <p>
           <strong>
@@ -319,7 +319,7 @@ export default function Inscribe() {
         <img
           alt="reveal manifest"
           src="/images/reveal-manifest.png"
-          className="p-6 my-8 border"
+          className="p-6 my-8 border dark:border-none"
         />
 
         <p>
@@ -341,7 +341,7 @@ export default function Inscribe() {
 
         <img
           alt="find collection id"
-          className="p-6 my-8 border"
+          className="p-6 my-8 border dark:border-none"
           src="/images/find-collection-id.png"
         />
 
@@ -358,7 +358,7 @@ export default function Inscribe() {
         </p>
 
         <img
-          className="p-6 my-8 border"
+          className="p-6 my-8 border dark:border-none"
           alt="find collection id update"
           src="/images/find-collection-id-update.png"
         />
@@ -381,7 +381,7 @@ export default function Inscribe() {
           our case, it is empty to mint for free.
         </p>
         <img
-          className="p-6 my-8 border"
+          className="p-6 my-8 border dark:border-none"
           alt="collection owner mint"
           src="/images/collection-owner-mint.png"
         />
@@ -405,7 +405,7 @@ export default function Inscribe() {
         </p>
 
         <img
-          className="p-6 my-8 border"
+          className="p-6 my-8 border dark:border-none"
           alt="public mint"
           src="/images/public-mint.png"
         />
@@ -434,7 +434,7 @@ export default function Inscribe() {
         <img
           alt="inscribe page"
           src="/images/inscribe-page.png"
-          className="p-6 pb-0 my-8 border"
+          className="p-6 pb-0 my-8 border dark:border-none"
         />
 
         <p>
